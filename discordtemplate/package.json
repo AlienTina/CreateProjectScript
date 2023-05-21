@@ -18,7 +18,7 @@
   "homepage": "https://github.com/Alekuso/Kobold#readme",
   "dependencies": {
     "discord.js": "^12.5.1",
-    "enmap": "^5.8.2",
+    "enmap": "^5.9.5",
     "fs": "0.0.1-security",
     "glob": "^7.1.6",
     "moment": "^2.29.0",

@@ -1,5 +1,5 @@
 const {Client} = require('discord.js');
-const app = new Client();
+const app = new Client({ intents: 37377 });
 //
 const fs = require('fs');
 const enmap = require('enmap');
